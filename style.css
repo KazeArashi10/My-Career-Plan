@@ -1,0 +1,96 @@
+body{
+    background-color: azure;
+    color: darkred;
+    margin: 50px;
+}
+
+.desktop p{
+    color: black;
+    margin-left: 45px;
+}
+
+.knowledge{
+    color: black;
+}
+
+.knowledge li{
+    color: purple;
+}
+
+.knowledge p{
+    color: rebeccapurple;
+    margin-left: 45px;
+}
+
+.skills{
+    color: palegreen;
+}
+
+.skills li{
+    color: darkolivegreen;
+}
+
+.skills p{
+    color: forestgreen;
+}
+
+.abilities {
+    color: cadetblue;
+}
+
+.abilities li{
+    color: black;
+}
+
+.abilities p{
+    color: blue;
+    margin-left: 45px;
+}
+
+.personality{
+    color: darkslategray;
+}
+
+.personality p{
+    color: olivedrab;
+}
+
+.personality li{
+    color:mediumseagreen;
+    margin-top: 35px;
+    margin-left: 45px;
+}
+
+.technology {
+    color: gold;
+}
+
+.technology p{
+    color: goldenrod;
+}
+
+.technology li{
+    color: darkgoldenrod;
+    margin-top: 35px;
+    margin-left: 45px;
+}
+
+.outlook h2{
+    color: darksalmon;
+}
+
+.outlook p{
+    color: indianred;
+}
+
+.education {
+    color: peru;
+}
+
+.education p{
+    color: chocolate;
+}
+
+.education h4{
+    color: saddlebrown;
+}
